@@ -1,2 +1,2 @@
-# mart00n.github.io
-Personal website with github pages
+# mart00n.com
+Andrew Marton's personal website
